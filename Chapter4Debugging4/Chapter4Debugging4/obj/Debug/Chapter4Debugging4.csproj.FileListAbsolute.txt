@@ -1,0 +1,7 @@
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\bin\Debug\Chapter4Debugging4.exe.config
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\bin\Debug\Chapter4Debugging4.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\bin\Debug\Chapter4Debugging4.pdb
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\obj\Debug\Chapter4Debugging4.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\obj\Debug\Chapter4Debugging4.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\obj\Debug\Chapter4Debugging4.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\Chapter4Debugging4\Chapter4Debugging4\obj\Debug\Chapter4Debugging4.pdb

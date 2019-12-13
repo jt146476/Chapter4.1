@@ -1,0 +1,4 @@
+C:\Users\jt146476\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.AssemblyInfoInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Admission\Admission\obj\Debug\netcoreapp2.0\Admission.AssemblyInfo.cs

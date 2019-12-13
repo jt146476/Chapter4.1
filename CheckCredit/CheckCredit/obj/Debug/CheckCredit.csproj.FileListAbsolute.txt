@@ -1,0 +1,7 @@
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe.config
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.pdb
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.pdb

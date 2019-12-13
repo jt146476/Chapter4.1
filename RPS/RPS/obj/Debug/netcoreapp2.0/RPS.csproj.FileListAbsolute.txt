@@ -1,0 +1,11 @@
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.deps.json
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.json
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.dev.json
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.dll
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.pdb
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfoInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfo.cs
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.dll
+C:\Users\jt146476\Desktop\C#\Chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.pdb

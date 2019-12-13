@@ -1,0 +1,7 @@
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\bin\Debug\Compare3Numbers.exe.config
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\bin\Debug\Compare3Numbers.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\bin\Debug\Compare3Numbers.pdb
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\obj\Debug\Compare3Numbers.csprojAssemblyReference.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\obj\Debug\Compare3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\obj\Debug\Compare3Numbers.exe
+C:\Users\jt146476\Desktop\C#\Chapter 4\Compare3Numbers\Compare3Numbers\obj\Debug\Compare3Numbers.pdb
